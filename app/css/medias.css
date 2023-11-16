@@ -1,0 +1,39 @@
+
+/*@media (max-width:375px) {
+	:root {
+		--font-size: 69.0625%;
+		--fd:column;
+	}
+
+	.preview {
+		width: 100% !important;
+	}
+
+	.preview-detail {
+		padding: 3.076923rem !important;
+	}
+
+	.preview__img img {
+		max-width: 100%;
+		height: auto;
+	}
+
+	.social {
+		position: static !important;
+		right: 50%;
+		bottom: 100%;
+		transform: translate(50%,-50%);
+	}
+
+	.share {
+		background-color: var(--white) !important;
+	}
+
+	.social {
+		position: absolute;
+		border-radius: .76923rem;
+		right: 50%;
+		bottom: 100%;
+		transform: translate(50%,-50%);
+	}
+}*/
